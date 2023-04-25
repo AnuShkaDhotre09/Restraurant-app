@@ -1,0 +1,138 @@
+{
+  "user": [
+    {
+      "email": "anushka@gmail.com",
+      "name": "Anushka Dhotre",
+      "pssword": "anu",
+      "id": 1
+    },
+    {
+      "email": "anisha@gmail.com",
+      "name": "Anisha Dhotre",
+      "pssword": "ani",
+      "id": 2
+    },
+    {
+      "email": "anu",
+      "password": "anu",
+      "name": "anu",
+      "id": 3
+    },
+    {
+      "email": "anu",
+      "password": "anu",
+      "name": "anu",
+      "id": 4
+    },
+    {
+      "email": "geet@gmail.com",
+      "password": "geet123",
+      "name": "Geet",
+      "id": 5
+    },
+    {
+      "email": "geet@gmail.com",
+      "password": "geet123",
+      "name": "Geet",
+      "id": 6
+    },
+    {
+      "email": "geet@gmail.com",
+      "password": "12345",
+      "name": "Geet",
+      "id": 7
+    },
+    {
+      "email": "wahaj@gmail.com",
+      "password": "wahaj123",
+      "name": "wahaj",
+      "id": 8
+    },
+    {
+      "name": "Taqi",
+      "email": "taqi@test.com",
+      "password": 999,
+      "id": 9
+    },
+    {
+      "name": "Bela",
+      "email": "bela@test.com",
+      "password": 666,
+      "id": 10
+    },
+    {
+      "email": "priya@test.com",
+      "password": "p123",
+      "name": "priya",
+      "id": 11
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 12
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 13
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 14
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 15
+    },
+    {
+      "email": "geet@gmail.com",
+      "password": "12345",
+      "name": "geet",
+      "id": 16
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 17
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 18
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger king",
+      "address": "Noida sector 50",
+      "contact": 1111
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Gurgaon sector 20",
+      "contact": 2222
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "address": "Delhi sector 30",
+      "contact": 3333
+    },
+    {
+      "name": "RCB Restaurant",
+      "email": "Delhi",
+      "password": "12345",
+      "id": 4
+    }
+  ]
+}
